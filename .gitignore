@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+/tiny-imagenet-200
 # Distribution / packaging
 .Python
 build/
